@@ -4,8 +4,6 @@ https://stm1.rootuy.xyz:19360/envivotv/envivotv.m3u8
 https://corsproxy.io/?http://heroem3u.epizy.com/youtube/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.postimg.cc/D019jWtJ/GEN-TV-ESP.png",GEN TV 17.4TV * |HD| 
 https://inliveserver.com:1936/14056/14056/playlist.m3u8
-#EXTINF:-1 group-title="TUCUMAN" tvg-logo="https://i.postimg.cc/vTR8pJwk/TELEFE-TUCUMAN-ESP.png",TELEFE TUCUMAN TV * |HD|
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0316
 #EXTINF:-1 group-title="SANTA FE" tvg-logo="https://i.postimg.cc/8zZhzc85/TELESANTAFE-ROSARIO.png",TELEFE ROSARIO TV * |HD|
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0295
 #EXTINF:-1 group-title="SAN JUAN" tvg-logo="https://i.postimg.cc/dV4CRXfr/COSMOS-TV.png",COSMOS TV SAN JUAN TV * |HD|
