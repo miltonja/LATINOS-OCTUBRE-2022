@@ -43,7 +43,7 @@ https://s2.tvdatta.com:3548/hybrid/play.m3u8?PlaylistM3UCL
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254ab6fa74f8e0007ba6879/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Samsung TV Plus" tvg-logo="https://i.postimg.cc/1zspqDBM/INWONDER.png",INWONDER * | (Mexico)
 https://inwonder-samsungmexico.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/7xmaoL0.png" group-title=",INSIGHT TV * |HD|(1080p)
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/7xmaoL0.png" ,INSIGHT TV  /HD/
 https://insighttv-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="FMTV" tvg-logo="https://i.postimg.cc/ncrvJvcQ/FRECUENCIA-MUSICAL-FUSION.png",FRECUENCIA MUSICAL TV * | 
 https://cloud2.streaminglivehd.com:1936/8018/8018/playlist.m3u8
