@@ -24,20 +24,6 @@ https://stream.arcast.com.ar/c8mdp/ngrp:c8mdp_all/playlist.m3u8
 http://190.83.119.67:8000/play/a0qc/index.m3u8&mode=12
 #EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/Yqhf8WKK/Global-TV-logo.png",GLOBAL TV * |HD|  
 https://stmv.video.gmpro.top/global/global/playlist.m3u8
-#EXTINF:-1 grupo-título="CINE" tvg-logo="https://i.postimg.cc/kXV2cKX0/hbo.png", HBO TV * |HD|
-https://monchyxd.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/bfcx013
-#EXTINF:-1 grupo-título="CINE" tvg-logo="https://i.postimg.cc/bYxtvwGw/HBO2.png", HBO 2 TV * |HD|
-https://monchyxd.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/bactr9gtc
-#EXTINF:-1 group-title="CURIOSIDAD" tvg-logo="https://i.postimg.cc/0N0sw7PQ/DISCOVERY-CHANNEL.png", DISCOVERY CHANNEL
-https://monchyxd.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/dt_yy83
-#EXTINF:-1 group-title="CURIOSIDAD" tvg-logo="https://i.postimg.cc/qBP1Whtw/History-Channel.png", HISTORY CHANNELTV * |HD| 
-https://monchyxd.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/vdt_51tt
-#EXTINF:-1 group-title="CINE" tvg-logo="https://i.postimg.cc/5ys0f5qm/tnt.png",TNT SD TV * |HD|
-https://monchyxd.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/knt_16kll
-#EXTINF:-1 group-title="CINE" tvg-logo="https://i.postimg.cc/BZ5Z8fLx/1200px-Cinemax-Yellow-svg.png",CINEMAX SD
-https://monchyxd.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/cc_x2t3x
-#EXTINF:-1 group-title="CINE" tvg-logo="https://i.postimg.cc/pV85TpTp/FX-logo.png",FX SD TV * |HD|
-https://monchyxd.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/5mx208dll
 #EXTINF:-1 group-title="CINE" tvg-logo="https://i.postimg.cc/1z6GRsJL/MY-TIME-1.png",MY TIME MOVIES 1 TV * |HD|
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="CINE" tvg-logo="https://i.postimg.cc/k4mxBzHD/MY-TIME-2.png",MY TIME MOVIES 2 TV * |HD|
