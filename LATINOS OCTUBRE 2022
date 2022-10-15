@@ -382,6 +382,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1751
 #EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.imgur.com/7VmFIX9.png",Canela Hits | Canela TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058
 #EXTINF:-1 group-title="INFANTILES" tvg-logo="https://i.imgur.com/g3Jreh3.png",Canela Kids
+#EXTINF:-1 group-title="Colombia" tvg-logo="https://memorias.tv/wp-content/uploads/2022/03/cropped-logo-MEMORIAS-TV-png-1.png",Memorias TV
+https://mediacp.us:8081/8022/index.m3u8?PlaylistM3UCL
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
 #EXTINF:-1 group-title="Humor em inglês" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60f054022091760a276849a2",Chive TV | LG
 https://atmosphere-chivetv-lg.amagi.tv/playlist.m3u8
