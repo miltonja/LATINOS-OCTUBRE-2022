@@ -1,7 +1,7 @@
 #EXTINF:-1 group-title="PCIA BS AS" tvg-logo="https://i.postimg.cc/2jhpVPJZ/TVES-SAN-JOSE.png",TVES SAN JOSE TV* |HD| 
 https://stm1.rootuy.xyz:19360/envivotv/envivotv.m3u8
 #EXTINF:-1 group-title="NOTICIAS" tvg-logo="https://i.postimg.cc/T2CHWCbF/FRANCE-24.png",FRANCIA 24 ESPAÑOL 24.3 TV * |HD|
-https://corsproxy.io/?http://heroem3u.epizy.com/youtube/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
+https://ythls.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.postimg.cc/D019jWtJ/GEN-TV-ESP.png",GEN TV 17.4TV * |HD| 
 https://inliveserver.com:1936/14056/14056/playlist.m3u8
 #EXTINF:-1 group-title="SANTA FE" tvg-logo="https://i.postimg.cc/8zZhzc85/TELESANTAFE-ROSARIO.png",TELEFE ROSARIO TV * |HD|
@@ -24,11 +24,10 @@ https://stmv.video.gmpro.top/global/global/playlist.m3u8
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="CINE" tvg-logo="https://i.postimg.cc/k4mxBzHD/MY-TIME-2.png",MY TIME MOVIES 2 TV * |HD|
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="1285" tvg-name="La Despechada TV" tvg-logo="https://i.postimg.cc/50S75Zn6/LA-DESPECHADA-BLANCO.png", La Despechada TV | CO
-https://servidordevideo.co:3077/hybrid/play.m3u8?PlaylistM3UCL
-
-
+https://servidordevideo.com:3077/live/despechadalive.m3u8
+#EXTINF:-1 tvg-id="1285" tvg-name="La Despechada TV" tvg-logo="https://i.postimg.cc/50S75Zn6/LA-DESPECHADA-BLANCO.png", La Despechada TV | CO
+https://servidordevideo.co:3077/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="1205" tvg-name="Viwix TV Terror" tvg-logo="https://i.postimg.cc/h4V1HXg9/VIWIX-TV-TERROR.png", Viwix TV Terror * | CL
 https://s2.tvdatta.com:3849/hybrid/play.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1207" tvg-name="Viwix TV Accion" tvg-logo="https://i.postimg.cc/FKjCHYmX/VIWIX-TV-ACCION.png", Viwix TV Accion * | CL
@@ -46,7 +45,7 @@ https://inwonder-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/7xmaoL0.png" ,INSIGHT TV  /HD/
 https://insighttv-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="FMTV" tvg-logo="https://i.postimg.cc/ncrvJvcQ/FRECUENCIA-MUSICAL-FUSION.png",FRECUENCIA MUSICAL TV * | 
-https://cloud2.streaminglivehd.com:1936/8018/8018/playlist.m3u8
+https://s2.tvdatta.com:3307/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/fox-sports-2-logo-876FE0A3C1-seeklogo.com.png" group-title="EVENTOS DEPORTIVOS", FOX Sports 2
 https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index.m3u8
 #EXTINF:-1 group-title="General"tvg-logo="https://i.postimg.cc/yNkKxtN6/FRUTILLAR-TV.png", Frutillar TV | PY
