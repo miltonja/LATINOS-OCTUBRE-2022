@@ -75,7 +75,7 @@ https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8
 #EXTINF: -1 group-title="REPUBLICA DOMINICANA"tvg-logo ="https://i.postimg.cc/3R0F9byh/sensacion-tv.png",SENSACION TV * |HD|
 https://ss5.domint.net:3002/stv_str/sensaciontv/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i2.paste.pics/c767dc0905ee282c6ea1b565625e7ca7.png",City Sports TV | AR
-https://videosenlared.fullstreaming.ar:3884/live/citysportslive.m3u8?PlaylistM3UCL
+https://videosenlared.fullstreaming.ar:3697/live/contenidos34live.m3u8
 #EXTINF: -1 group-title="MUSICA"tvg-logo ="https://i.postimg.cc/5tV0vS7K/LA-SABROSURA-TV-ESP.png",LA SABROSURA TV * |HD|
 https://tv.streaming-chile.com:1936/radiosabrosura/radiosabrosura/playlist.m3u8?PlaylistM3UCL
 #EXTINF: -1 group-title="MUSICA"tvg-logo ="https://i.postimg.cc/9FHGmKZs/SOLO-BAILALO-ESP.png",SOLOBAILALO * |HD|
